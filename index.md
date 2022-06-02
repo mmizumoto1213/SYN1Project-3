@@ -23,3 +23,6 @@ Small changes at your home could help the environment while also lowering some o
 
 ## Cut Back on Consumption and Waste
 
+![pic](link)
+
+Everything we use has a carbon footprint. Therefore, we should be careful in what we choose to buy and use 
