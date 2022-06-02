@@ -11,7 +11,7 @@ As we can see the production of meat and dairy releases many times more greenhou
 
 ## Avoid Fuel Based Transportation
 
-![Transportation Carbon Emissions](TransportationCarbonEmissions.PNG)
+![Transportation Carbon Emissions](TransportationCarbonEmission.PNG)
 
 The average American emitts close to 5 metric tons of carbon dioxide each year from driving their car. In California over 40% of all carbon emission comes from transportation vehicles. This is also one of the biggest categories in which we can improve on. Instead of driving your own vehicle to commute to school or work, we can ride a bike or scooter to drastically lower our carbon footprint. If biking is not possible then another alternative would be to use public transport. Although buses may be another contributor to releasing greenhouse gases, it is much more efficient with its emission due to the amount of people it carries. The final option would be to buy an electric or hybird vehicle instead of the typical fuel based vehicle. Although some electricity is currently be created by fossil fuels, the methods in which electricity are made are graudually becoming more clean.
 
@@ -23,6 +23,6 @@ Small changes at your home could help the environment while also lowering some o
 
 ## Cut Back on Consumption and Waste
 
-![pic](link)
+![waste](Waste.PNG)
 
 Everything we use has a carbon footprint. Therefore, we should be careful in what we choose to buy and use. Avoid buying items that are single use and items that do not seem like they could be used for a very long time. These items include things such as bottled water, single use fashion items, and cheap products that can break easily. Before deciding to throw away a product it is also important to see if it can be repaired or reused in a different way. If you still decide to rid of the product figure out how it should be disposed. Often times many things that can be recycled or composted end up being throw into the garbage going into landfills. The biggest place Americans can improve on is composted food waste. Over 50% of waste in America is compostable material, and only 5% of food waste gets composted in America. By composting food waste not only are you helping create fertilizer for plants, you are preventing food waste from going to landfills and rotting and producing methane gas which is a greenhouse gas much more potent than carbon dioxide.
