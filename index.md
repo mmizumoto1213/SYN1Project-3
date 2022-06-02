@@ -17,7 +17,7 @@ The average American emitts close to 5 metric tons of carbon dioxide each year f
 
 ## Be Mindful of Household Utility Usage
 
-![pic](link)
+![Less Utilities](LessUtilities.PNG)
 
 Small changes at your home could help the environment while also lowering some of your utility bills. The first and easiest change is to turn off any appliances when not in use. This may seem like an obvious thing but turning off light and unplugging appliances when they are not in use is a good habit that will both help the environment and lower your utility bills. Another simple change that could be made is to use more efficient light bulbs and faucets. Replacing regular light bulbs with LED light bulbs can help reduce energy usage. There are also shower and faucet heads that are made to be more water-efficient which cam help reduce the amount of water you use. There are also many other places for improvement such as taking shorter showers and turning off taps when while brushing you teeth or applying soap to your hands. Lastly turning down the air conditioner a few degrees is an easy way to help to environment. These small changes may seem insignificant indivually, however as they pile up together it makes a bigger difference than you would imagine.
 
