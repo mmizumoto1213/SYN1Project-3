@@ -4,6 +4,10 @@ The first step in the climate change battle is to understand how you are affecti
 
 This Ecological Footprint Calculator not only tells you how much waste is being produced by your livestyle, but also gives solutions to different ways you can help reduce your carbon footprint from different ascpects of your lifestyle. The shocking reality is that most people living in the United States are living extremely wastefully. If every human being were to live like your typical American we would need 5 Earths to have enough space and resources for everyone to live sustainably. However, there are solutions to fix this and the change begings with YOU. 
 
+![Data](GlobalBiocapacityGraph.PNG)
+
+From the most recent data collected in 2018 it was found that the average person uses 1.2 more global hectares than what they can use for Earth to be sustainable for everyone. This means that people are currently living unsustainably. 
+
 ## Eat Less Meats and Dairy
 ![Food Carbon FootPrint](FoodCarbonFootprint.PNG)
 
