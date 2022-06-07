@@ -6,7 +6,7 @@ This Ecological Footprint Calculator not only tells you how much waste is being 
 
 ![Data](GlobalBiocapacityGraph.PNG)
 
-From the most recent data collected in 2018 it was found that the average person uses 1.2 more global hectares than what they can use for Earth to be sustainable for everyone. This means that people are currently living unsustainably. 
+From the most recent data collected in 2018 it was found that the average person uses 1.2 more global hectares than what they can use for Earth to be sustainable for everyone. This means that people are currently living unsustainably. However there are many things individuals can do to play their share to combat climate change. Here are some of the simplest ways people can reduce their carbon footprint.
 
 ## Eat Less Meats and Dairy
 ![Food Carbon FootPrint](FoodCarbonFootprint.PNG)
