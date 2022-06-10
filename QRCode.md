@@ -2,7 +2,7 @@
 
 ![Climate Change](ClimateChange.PNG)
 
-## Play your role to make an impact. Find out how you can help at this website.
+## Play your role to make an impact. Find out how you can help here.
 
 ![QR Code](QRCode.PNG)
 
