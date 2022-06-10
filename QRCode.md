@@ -2,5 +2,5 @@
 
 ## Play your role to make an impact. Find out how you can help at this website.
 
-![QR Code](QRCode.PNG
+![QR Code](QRCode.PNG)
 
